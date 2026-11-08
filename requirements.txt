@@ -1,0 +1,10 @@
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+seaborn>=0.12
+openpyxl>=3.0
+jupyter
+ipykernel
+pytest>=7
+-e .
